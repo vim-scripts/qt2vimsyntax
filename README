@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=787
+
+A perl script that creates syntax definition for Trolltech' Qt library (http://www.trolltech.com) by scanning all qt includes and gaining class names. Assumes $QTDIR environment is set; if not, /usr/lib/qt is scanned. 
